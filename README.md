@@ -1,7 +1,7 @@
 # Pandas-project
 
 ### This project is about cleaning a dataset obtained from this link below:
-[link](https://www.kaggle.com/teajay/global-shark-attacks)
+[Kaggle](https://www.kaggle.com/teajay/global-shark-attacks)
 
 The dataset is about global shark attacks that have been registered from (and I'm not kidding) the year 5 and year 77 b.C and then starting to be more
 complete and insightful from the year 1700 and on.
